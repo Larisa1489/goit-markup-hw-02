@@ -175,7 +175,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--main-txt-cl);
 }
-/* Footer section */
+/* Footer section 1 страница-совместный с портфолио */
 .footer {
   background-color: var(--grey-bg-cl);
 }
@@ -253,3 +253,4 @@ body {
   letter-spacing: 0.03em;
   color: var(--main-txt-cl);
 }
+/* Footer section совместный с 1-й страницой */

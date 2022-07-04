@@ -79,7 +79,7 @@ body {
   color: var(--main-txt-cl);
 }
 .link-tel {
-  font-family: var(--secondary-font);
+  font-family: var(--main-font);
   font-weight: 500;
   font-size: 14px;
   line-height: calc(16 / 14);
